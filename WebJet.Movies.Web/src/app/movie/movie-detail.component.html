@@ -1,0 +1,22 @@
+<div class="container mt-15">
+  <div class="card flex-row p-3">
+    <div class="card-header border-0">
+      <img [src]="movie.poster">
+    </div>
+    <div class="card-block px-4">
+      <h5 class="card-title">{{movie.title}}</h5>
+      <p class="card-text">{{movie.plot}}</p>
+      <p class="card-text">Genre: {{movie.genre}}</p>
+      <p class="card-text">Actors: {{movie.actors}}</p>
+      <p class="card-text">Director: {{movie.director}}</p>
+      <p class="card-text">Rating: {{movie.rating}}</p>
+      <p class="card-text">Rated: {{movie.rated}}</p>
+      <p class="card-text text-danger font-weight-bold">Best Price: {{movie.price}} AUD</p>
+      <p class="card-text font-weight-bold">Provider: {{movie.provider}}</p>
+      <a class="float-right m-4" [routerLink]="['/movielist']">Back</a>
+    </div>
+  </div>
+  <br>
+</div>
+
+

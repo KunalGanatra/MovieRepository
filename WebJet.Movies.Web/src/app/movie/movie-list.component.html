@@ -1,0 +1,12 @@
+
+<div class="d-flex flex-wrap mt-15">
+  <div *ngFor='let movie of movies' class="card m-5" style="width: 18rem;">
+    <img class="card-img-top" [src]="movie.poster" style="height:350px">
+    <div class="card-body">
+      <h5 class="card-title">{{movie.title}}</h5>
+      <p class="card-text">Year: {{movie.year}}</p>
+      <a class="btn btn-primary" [routerLink]="['/moviedetail', movie.formattedID]">Get Best Price</a>
+    </div>
+  </div>
+</div>
+
