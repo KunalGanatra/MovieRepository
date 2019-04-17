@@ -7,6 +7,3 @@ C:\Projects\WebJet.Movies.Web\WebJet.Movies.Library\bin\Debug\netcoreapp2.1\WebJ
 C:\Projects\WebJet.Movies.Web\WebJet.Movies.Library\bin\Debug\netcoreapp2.1\WebJet.Movies.Library.pdb
 C:\Projects\WebJet.Movies.Web\WebJet.Movies.Library\obj\Debug\netcoreapp2.1\WebJet.Movies.Library.dll
 C:\Projects\WebJet.Movies.Web\WebJet.Movies.Library\obj\Debug\netcoreapp2.1\WebJet.Movies.Library.pdb
-C:\Projects\WebJet.Movies.Web\WebJet.Movies.Library\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
-C:\Projects\WebJet.Movies.Web\WebJet.Movies.Library\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
-C:\Projects\WebJet.Movies.Web\WebJet.Movies.Library\obj\Debug\netcoreapp2.1\WebJet.Movies.Library.csproj.CopyComplete
