@@ -1,9 +1,0 @@
-C:\Projects\WebJet.Movies.Web\WebJet.Movies.Data\bin\Debug\netcoreapp2.1\WebJet.Movies.Data.deps.json
-C:\Projects\WebJet.Movies.Web\WebJet.Movies.Data\bin\Debug\netcoreapp2.1\WebJet.Movies.Data.dll
-C:\Projects\WebJet.Movies.Web\WebJet.Movies.Data\bin\Debug\netcoreapp2.1\WebJet.Movies.Data.pdb
-C:\Projects\WebJet.Movies.Web\WebJet.Movies.Data\obj\Debug\netcoreapp2.1\WebJet.Movies.Data.csprojAssemblyReference.cache
-C:\Projects\WebJet.Movies.Web\WebJet.Movies.Data\obj\Debug\netcoreapp2.1\WebJet.Movies.Data.csproj.CoreCompileInputs.cache
-C:\Projects\WebJet.Movies.Web\WebJet.Movies.Data\obj\Debug\netcoreapp2.1\WebJet.Movies.Data.AssemblyInfoInputs.cache
-C:\Projects\WebJet.Movies.Web\WebJet.Movies.Data\obj\Debug\netcoreapp2.1\WebJet.Movies.Data.AssemblyInfo.cs
-C:\Projects\WebJet.Movies.Web\WebJet.Movies.Data\obj\Debug\netcoreapp2.1\WebJet.Movies.Data.dll
-C:\Projects\WebJet.Movies.Web\WebJet.Movies.Data\obj\Debug\netcoreapp2.1\WebJet.Movies.Data.pdb
